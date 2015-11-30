@@ -119,3 +119,4 @@ bower.json
 # Ignore the default SQLite database.
 # Ignore all logfiles and tempfiles.
 !/log/.keep
+/spring/*.pid
